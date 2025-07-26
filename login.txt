@@ -5,7 +5,7 @@
     "RobuxBalance": "robuxstringhere",
     "TicketsBalance": "ticketstringhere",
     "IsAnyBuildersClubMember": false,
-    "ThumbnailUrl": "",
-    "UserID": 0
+    "ThumbnailUrl": "thumburlhere",
+    "UserID": idhere
   }
 }
