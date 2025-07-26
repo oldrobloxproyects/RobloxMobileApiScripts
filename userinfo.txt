@@ -1,0 +1,1 @@
+{"UserInfo":{"UserID":UserID here,"UserName":"username here","RobuxBalance":robux balance here,"TicketsBalance":tickets balance here,"ThumbnailUrl":"thumbnail here","IsAnyBuildersClubMember":true}}
